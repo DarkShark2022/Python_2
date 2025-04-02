@@ -20,3 +20,5 @@ f = [26, 27, 28, 29, 30]
 print(a, b, c, d, e, f)
 print(a, b, c, d, e, f)
 >>>>>>> 1a836f851d1f6653406a2b806c4df100c8f99551
+
+print("Это изменение в master")
